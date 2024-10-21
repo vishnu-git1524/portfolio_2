@@ -1,0 +1,31 @@
+.education {
+    margin: 2rem 0;
+  }
+  
+  .education__title {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+  }
+  
+  .education__card {
+    border: 1px solid #ccc;
+    padding: 1rem;
+    margin-bottom: 1rem;
+    border-radius: 8px;
+    background-color: #f9f9f9;
+  }
+  
+  .education__institution {
+    font-weight: bold;
+    font-size: 1.5rem;
+  }
+  
+  .education__degree {
+    font-size: 1.2rem;
+    margin: 0.5rem 0;
+  }
+  
+  .education__desc {
+    font-size: 1rem;
+  }
+  
