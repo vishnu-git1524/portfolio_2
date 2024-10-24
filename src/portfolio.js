@@ -11,7 +11,7 @@ const about = {
   resume: 'https://example.com',
   social: {
     linkedin: 'https://www.linkedin.com/in/akhil-penikalapati-984175248?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app',
-    instagram: 'https://github.com/BHARADWAJ989',
+    instagram: 'https://www.instagram.com/chowdary_2226/profilecard/?igsh=M2h4OWw3YmlpN2U0',
   },
 }
 
