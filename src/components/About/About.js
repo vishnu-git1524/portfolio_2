@@ -1,5 +1,6 @@
 import GitHubIcon from '@material-ui/icons/GitHub'
 import LinkedInIcon from '@material-ui/icons/LinkedIn'
+import  InstagramIcon  from '@material-ui/icons/Instagram'
 import { about } from '../../portfolio'
 import './About.css'
 import profileImage from './img.jpg'; // Adjust the path as necessary
@@ -33,13 +34,13 @@ const About = () => {
 
         {social && (
           <>
-            {social.github && (
+            {social.instagram && (
               <a
-                href={social.github}
-                aria-label='github'
+                href={social.instagram}
+                aria-label='instagram'
                 className='link link--icon'
               >
-                <GitHubIcon />
+                <InstagramIcon />
               </a>
             )}
 
